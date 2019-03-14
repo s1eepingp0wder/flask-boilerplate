@@ -10,4 +10,4 @@ If it's needed, be sure to use a virtual environment and export variables accord
 `export FLASK_APP=flask_boilerplate`
 `export FLASK_ENV=development`
 
-Finally, run `flask run`. The server should open on 127.0.0.1:5000. You should see "Hello Dentz." (Dentz is me)
+Finally, run `flask run`. The server should open on 127.0.0.1:5000. You should see "Hello World."
